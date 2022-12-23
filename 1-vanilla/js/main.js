@@ -1,7 +1,7 @@
 import Controller from "./Controller.js";
 import Store from "./store.js";
 import storage from "./storage.js";
-import SearchFormView from "./views/SearchFormVeiw.js";
+import SearchFormView from "./views/SearchFormView.js";
 
 const tag = '[main]'
 document.addEventListener("DOMContentLoaded", main);  // 돔이 로딩되었을때(실행됬을때) main 함수를 실행하라 
